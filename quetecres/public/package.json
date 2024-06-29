@@ -1,0 +1,14 @@
+{
+  "name": "quetecres",
+  "version": "1.0.0",
+  "description": "A 2D visualization of quantum qubits entangled in photons using p5.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "CodingCosmic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
